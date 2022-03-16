@@ -3,4 +3,4 @@
 
  Repositorio criado durante uma aula de video!
 
-Essa linah eu adicionei diretamente no site Github.
+Essa linha eu adicionei diretamente no site Github.
